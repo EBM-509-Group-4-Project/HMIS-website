@@ -10,3 +10,7 @@
 6. Finally, run the server using `python manage.py runserver` and navigate to the url shown in the terminal.
 7. Or, enter the following URL in your browser: `http://127.0.0.1:8000/`
 8. To deactivate the virtual environment, use `deactivate` on Linux or `env\Scripts\deactivate.bat` on Windows.
+
+
+   # references
+   - https://github.com/sumitkumar1503/hospitalmanagement
